@@ -1,6 +1,6 @@
 {
-  "name": "windows.services.store",
-  "version": "0.1.0",
+  "name": "@nodert-win10-rs4/windows.services.store",
+  "version": "0.4.5",
   "description": "Use the Windows.Services.Store UWP API directly from Node.js",
   "main": "lib/main.js",
   "keywords": [
@@ -67,5 +67,8 @@
     "Felix Rieseberg <felix@felixrieseberg.com> (https://www.felix.fun)"
   ],
   "gypfile": true,
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "registry": "https://artifacts.innogames.de/api/npm/innogames-npm/"
+  }
 }

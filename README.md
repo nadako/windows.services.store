@@ -1,4 +1,4 @@
-windows.services.store
+@nodert-win10-rs4/windows.services.store
 =====
 
 A Node.js wrapper for the <a href="http://msdn.microsoft.com/en-us/library/windows/apps/Windows.Services.Store.aspx" target="_blank">Windows.Services.Store</a> WinRT namespace, compatible with Windows 10 APIs.
@@ -33,7 +33,7 @@ Installation:
 In order to install this module, run npm install:
 
 ```
-npm install windows.services.store
+npm install @nodert-win10-rs4/windows.services.store
 ```
 
 If you wish to rebuild this module using node-gyp, make sure to use the appropriate VS version using --msvs_version=2012/2013/2015/2017 flag:
