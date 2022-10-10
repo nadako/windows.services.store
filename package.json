@@ -1,6 +1,6 @@
 {
   "name": "@nodert-win10-rs4/windows.services.store",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Use the Windows.Services.Store UWP API directly from Node.js",
   "main": "lib/main.js",
   "keywords": [
